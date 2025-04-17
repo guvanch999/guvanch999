@@ -15,6 +15,50 @@
 
 ---
 
+
+## 🛠 Professional Skills
+
+### 🧠 Knowledge
+
+**NodeJS**  
+- JavaScript, TypeScript, AdonisJS, ExpressJS, NestJS, TypeORM, Sequelize
+
+**Golang**  
+- GORM, Echo, Gin, LangChain, concurrency, multithreading
+
+**Database**  
+- MySQL, MSSQL, PostgreSQL, SQLite, Redis, MongoDB
+
+**Version Control**  
+- GitHub, GitLab
+
+**General Knowledge**  
+- Docker, docker-compose, CI/CD, Swagger, Socket, HLS, ffmpeg, Nginx, CRON  
+- Streams, REST, HTTP/HTTPS, OOP, MVC, Clean Architecture principles  
+- Unit testing, Dependency Injection, Sentry logging system  
+- Experienced in reading and working with legacy/foreign code
+
+**Algorithms & Data Structures**  
+- Data types & structures, recursion, Stack, Queue, LinkedList  
+- Dynamic programming, memoization, graphs
+
+**Other Languages**  
+- PHP, C#, Java (Android), Python
+
+**Frontend**  
+- Vue 2 / Vue 3, Nuxt 2 / Nuxt 3, Options API, Composition API  
+- Axios, fetch, Sass, responsive design, validations  
+- VanillaJS, HTML, CSS, jQuery
+
+**SQL**  
+- Complex query writing, query optimization, stored procedures & functions  
+- Transaction management, locking mechanisms
+
+**Workflow**  
+- Code Review experience
+
+---
+
 ## 🌟 Recent Projects
 
 ### 🛍️ E-commerce Platform
