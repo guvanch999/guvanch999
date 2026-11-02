@@ -25,6 +25,19 @@ and the key engineering decisions.
 More projects — ERP analytics, WhatsApp campaigns SaaS, news monitoring, e-commerce on ERP data:
 [guvanch.site/#more-projects](https://www.guvanch.site/#more-projects)
 
+## Open source
+
+Smaller projects with public code — each has tests, CI and a README explaining the design.
+
+| Repository | What it shows | Stack |
+| --- | --- | --- |
+| [**balance-app**](https://github.com/guvanch999/balance-app) | Correctness under concurrency: atomic balance updates without lost updates, distributed cron with a safe Redis lock (`SET NX PX` + compare-and-delete) | Node.js, PostgreSQL, Redis |
+| [**one-id**](https://github.com/guvanch999/one-id) | Identity service foundation: short-lived access tokens, rotating refresh tokens with row locking and reuse detection | NestJS, TypeScript, PostgreSQL |
+| [**whatsapp-messenger-backend**](https://github.com/guvanch999/whatsapp-messenger-backend) | Multi-tenant WhatsApp campaigns via Twilio: bounded worker pool, per-tenant secrets in Secret Manager, API keys | Go, Echo, PostgreSQL |
+| [**evently-app**](https://github.com/guvanch999/evently-app) | Google OAuth2 sign-in with CSRF-safe `state`, own JWTs, owner-only events CRUD | Go, Echo, GORM |
+| [**abrayly-mebel-api**](https://github.com/guvanch999/abrayly-mebel-api) | Furniture store API: category tree, trilingual search, JWT admin auth, CI with test gate before deploy | Go, Echo, PostgreSQL |
+| [**ai-dictionary-android**](https://github.com/guvanch999/ai-dictionary-android) | Android app: capture words from any app, AI articles, Leitner spaced repetition, offline queue | Kotlin, Jetpack Compose, Room |
+
 ## Experience
 
 - **Turkmenportal** — Backend Developer · 2025 — present · Node.js, Fastify, nginx, PM2
