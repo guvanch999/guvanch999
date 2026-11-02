@@ -1,90 +1,45 @@
-# 👋 Hello, I'm Guvanch!
+# Guvanch D. — Backend Developer
 
-🚀 **Backend Developer | Golang & Node.js Enthusiast | 3+ Years of Experience**  
-🧠 Passionate about building efficient systems, clean architecture, and scalable APIs.
+**Node.js · TypeScript · Go** — 5+ years of commercial experience (since 2021).
 
----
+I build scalable backend systems, distributed services and AI-powered applications — and run them in production:
+system architecture, database optimization, real-time applications and infrastructure.
 
-## 💼 About Me
+**Portfolio:** [guvanch.site](https://www.guvanch.site) ·
+**CV:** [English](https://www.guvanch.site/files/Guvanch-D-Backend-Developer-CV.pdf) / [Русский](https://www.guvanch.site/files/Guvanch-D-Backend-Developer-CV-RU.pdf)
 
-- 🔧 I specialize in **Go** and **Node.js** for backend development.
-- 💡 3+ years of experience in backend, including **9 months of Go**.
-- 📦 Built systems with **Echo (Go)**, **Supabase**, **PostgreSQL**, and **MSSQL**.
-- 🧰 Worked on a wide range of projects from **electronic document management systems** to **e-commerce**.
-- 🔐 Strong focus on authentication, clean code, and performance.
+🟢 Open to remote and office roles — full-time or part-time.
 
----
+## Selected work
 
+Most of my production code lives in private client repositories. The case studies below describe the architecture
+and the key engineering decisions.
 
-## 🛠 Professional Skills
+| Project | What I did | Stack |
+| --- | --- | --- |
+| [**aseller — CRM for Amazon sellers**](https://www.guvanch.site/projects/aseller) | Lead backend developer and architect of three services — REST API, background queue and real-time gateway. OAuth 2.1 + MCP so Claude and ChatGPT can work with CRM data; layered access control; async AI jobs. | Node.js, Fastify, BullMQ, Socket.IO, PostgreSQL, Redis |
+| [**e.gov.tm — government services portal**](https://www.guvanch.site/projects/egov) | One of two backend developers of Turkmenistan's unified portal; integrations with government and payment services. The platform grew to 40+ online services. | Go, PostgreSQL |
+| [**RAG knowledge base**](https://www.guvanch.site/projects/rag-knowledge-base) | Multi-tenant knowledge base: document ingestion pipeline, custom pgvector store with HNSW, answers streamed over WebSocket, several LLM providers. | Go, Echo, LangChain, pgvector |
+| [**Finlens — personal finance app**](https://www.guvanch.site/projects/finlens) | Built solo: offline-first family sync with optimistic concurrency, Gemini voice features, LLM evaluation suite in 5 languages, 254 backend tests. | Flutter, Fastify, PostgreSQL, Redis, Gemini |
 
-### 🧠 Knowledge
+More projects — ERP analytics, WhatsApp campaigns SaaS, news monitoring, e-commerce on ERP data:
+[guvanch.site/#more-projects](https://www.guvanch.site/#more-projects)
 
-**NodeJS**  
-- JavaScript, TypeScript, AdonisJS, ExpressJS, NestJS, TypeORM, Sequelize
+## Experience
 
-**Golang**  
-- GORM, Echo, Gin, LangChain, concurrency, multithreading
+- **Turkmenportal** — Backend Developer · 2025 — present · Node.js, Fastify, nginx, PM2
+- **Launchist** — Backend Developer · 2024 · Go, Echo, Python, FastAPI, Supabase, Cloud Run
+- **e.gov.tm** — Backend Developer · 2022 — 2023 · Go, PostgreSQL
+- **Nesip Etsin** — Frontend Developer · 2021 — 2022 · Vue, Nuxt
 
-**Database**  
-- MySQL, MSSQL, PostgreSQL, SQLite, Redis, MongoDB
+## Stack
 
-**Version Control**  
-- GitHub, GitLab
+- **Backend:** Node.js, TypeScript, Go, Python · Fastify, NestJS, Express, Echo, Gin, Django
+- **Data:** PostgreSQL, MySQL, MS SQL, MongoDB, Redis, pgvector
+- **Infrastructure:** Linux, Docker, nginx, PM2, CI/CD, AWS EC2, Google Cloud Run
+- **Architecture:** microservices, queues and workers, real-time systems, transactions and locking
+- **AI:** RAG, LangChain, MCP, OpenAI / Anthropic / Gemini APIs
 
-**General Knowledge**  
-- Docker, docker-compose, CI/CD, Swagger, Socket, HLS, ffmpeg, Nginx, CRON  
-- Streams, REST, HTTP/HTTPS, OOP, MVC, Clean Architecture principles  
-- Unit testing, Dependency Injection, Sentry logging system  
-- Experienced in reading and working with legacy/foreign code
+## Contact
 
-**Algorithms & Data Structures**  
-- Data types & structures, recursion, Stack, Queue, LinkedList  
-- Dynamic programming, memoization, graphs
-
-**Other Languages**  
-- PHP, C#, Java (Android), Python
-
-**Frontend**  
-- Vue 2 / Vue 3, Nuxt 2 / Nuxt 3, Options API, Composition API  
-- Axios, fetch, Sass, responsive design, validations  
-- VanillaJS, HTML, CSS, jQuery
-
-**SQL**  
-- Complex query writing, query optimization, stored procedures & functions  
-- Transaction management, locking mechanisms
-
-**Workflow**  
-- Code Review experience
-
----
-
-## 🌟 Recent Projects
-
-### 🛍️ E-commerce Platform
-- 🧩 Backend: **Golang**, MSSQL, clean architecture
-- 🧺 Features: Product catalog, filters, shopping cart, orders, banners
-
-### 📄 Document Workflow System (Электронный документооборот)
-- 📎 Built a robust backend for handling internal documents and workflows
-- 🔄 Integrated with vector storage and OpenAI LLM for document-based answering
-
----
-
-## 🛠 Tech Stack
-
-- **Languages**: Go, JavaScript (Node.js), SQL
-- **Frameworks**: Echo, Express.js, Nest.js, Adonis.js
-- **Databases**: PostgreSQL, MSSQL
-- **Tools**: Supabase, Docker, Git, OpenAI APIs, docker-compose
-- **Other**: REST APIs, Clean Architecture, Vector DBs
-
----
-
-## 📫 Get in Touch
-
-- 💌 Email: guvanch.d.1999@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/guvanch-durdyyev-671602214](https://www.linkedin.com/in/guvanch-durdyyev-671602214/)
-
-Thanks for stopping by! 🙌
-
+[guvanch.d.1999@gmail.com](mailto:guvanch.d.1999@gmail.com) · Telegram [@guvanchd](https://t.me/guvanchd) · Ashgabat, Turkmenistan
